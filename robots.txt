@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mypdftools-1lg.pages.dev/sitemap.xml
